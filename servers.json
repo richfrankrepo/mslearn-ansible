@@ -1,0 +1,8 @@
+[
+  {
+    "host": "51.11.14.0",
+    "port": 22,
+    "user": "azureuser",
+    "key": "/c/Users/richf/.ssh/ansible_rsa"
+  }
+]
